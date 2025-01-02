@@ -1153,23 +1153,23 @@ body {
   }
   
   .flower--1 .flower__line{
-    height: 130vmin;
+    height: 110vmin;
     animation-delay: 0.3s;
   }
   .flower--2 .flower__line{
-    height: 130vmin;
+    height: 110vmin;
     animation-delay: 0.3s;
   }
   .flower--3 .flower__line{
-    height: 130vmin;
+    height: 110vmin;
     animation-delay: 0.3s;
   }
   .flower--4 .flower__line{
-    height: 100vmin;
+    height: 80vmin;
     animation-delay: 0.3s;
   }
   .flower--5 .flower__line{
-    height: 100vmin;
+    height: 80vmin;
     animation-delay: 0.3s;
   }
 }
